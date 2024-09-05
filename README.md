@@ -1,6 +1,6 @@
 ## Live Demo
-Check out the live demo of our project here: [Frontend](https://teacherportalfrontend.netlify.app/)
-Backend Deployed here: [Backend](https://teacherportalbackend.up.railway.app/)
+1. Check out the live demo of our project here: [Frontend](https://teacherportalfrontend.netlify.app/)
+2. Backend Deployed here: [Backend](https://teacherportalbackend.up.railway.app/)
 
 # Project Title
 Teacher Portal
